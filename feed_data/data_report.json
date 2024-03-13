@@ -1,0 +1,758 @@
+{
+    "compatible_files_added": {
+        "e7b81a76_NotificationUser.aspx_Id_7695_Mode_0": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "eae3d5f7_5322": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "c45484aa_NotificationUser.aspx_Id_3195_Mode_0": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "03f5072a_NotificationUser.aspx_Id_11310_Mode_0": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "bda05745_12256": {
+            "extension": "txt",
+            "chunks": 89
+        },
+        "1df644ed_NotificationUser.aspx_Id_872_Mode_0": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "779d11a1_4998": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "6054f34b_5406": {
+            "extension": "txt",
+            "chunks": 21
+        },
+        "29f63c31_NotificationUser.aspx_Id_6175_Mode_0": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "18a6f986_7488": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "5dc96be1_5793": {
+            "extension": "txt",
+            "chunks": 106
+        },
+        "6917794a_1315": {
+            "extension": "txt",
+            "chunks": 140
+        },
+        "23cf4280_5020": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "735216cc_FAQView.aspx_Id_134": {
+            "extension": "txt",
+            "chunks": 42
+        },
+        "3055678b_NotificationUser.aspx_Id_10147_Mode_0": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "6e930f37_6915": {
+            "extension": "txt",
+            "chunks": 30
+        },
+        "0fc0a34b_11697": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "9f4a092f_1146": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "b58497d7_NotificationUser.aspx_Id_1553_Mode_0": {
+            "extension": "txt",
+            "chunks": 38
+        },
+        "1b217876_14927": {
+            "extension": "txt",
+            "chunks": 1
+        },
+        "31b25316_8383": {
+            "extension": "txt",
+            "chunks": 31
+        },
+        "f7103412_NotificationUser.aspx_Id_12372_Mode_0": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "a9d1336b_NotificationUser.aspx_Id_3389_Mode_0": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "8829aeaa_NotificationUser.aspx_Id_7743_Mode_0": {
+            "extension": "txt",
+            "chunks": 64
+        },
+        "c25d5f85_NotificationUser.aspx_Id_1363_Mode_0": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "37a611b2_NotificationUser.aspx_Id_7109_Mode_0": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "63d549ab_BS_CircularIndexDisplay.aspx_Id_4388": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "6be79d63_BS_CircularIndexDisplay.aspx_Id_3107": {
+            "extension": "txt",
+            "chunks": 19
+        },
+        "e9dcef46_bs_viewcontent.aspx_Id_608": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "108ddb47_NotificationUser.aspx_Id_747_Mode_0": {
+            "extension": "txt",
+            "chunks": 72
+        },
+        "fe78bb89_9354": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "e6929982_NotificationUser.aspx_Id_4825_Mode_0": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "98a502d3_9471": {
+            "extension": "txt",
+            "chunks": 48
+        },
+        "f0a7b5e4_NotificationUser.aspx_Id_1220_Mode_0": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "e76ab971_8599": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "b78509d6_1485": {
+            "extension": "txt",
+            "chunks": 94
+        },
+        "0bae7041_BS_CircularIndexDisplay.aspx_Id_4249": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "c6fb4779_7981": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "52a0dcc9_9715": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "98339be7_NotificationUser.aspx_Id_12377_Mode_0": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "afa05187_7806": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "a0bbce37_BS_ViewMasDirections.aspx_id_10586": {
+            "extension": "txt",
+            "chunks": 17
+        },
+        "f5143c0e_11800": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "f74bf2f1_8233": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "6f06990c_7531": {
+            "extension": "txt",
+            "chunks": 29
+        },
+        "3d57da0c_NotificationUser.aspx_Id_9456_Mode_0": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "e3ee20a9_7673": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "a56dfbf5_NotificationUser.aspx_Id_6344_Mode_0": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "ed90d077_NotificationUser.aspx_Id_11018_Mode_0": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "be794332_BS_PressReleaseDisplay.aspx_prid_23941": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "cad0dfd3_3971": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "16992d9a_12414": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "58bd2a4a_NotificationUser.aspx_Id_9160_Mode_0": {
+            "extension": "txt",
+            "chunks": 55
+        },
+        "8ca54726_list.shtml": {
+            "extension": "txt",
+            "chunks": 2
+        },
+        "a58d58c8_NotificationUser.aspx_Id_6905_Mode_0": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "201b6186_8192": {
+            "extension": "txt",
+            "chunks": 245
+        },
+        "caccc63a_4768": {
+            "extension": "txt",
+            "chunks": 33
+        },
+        "17a30450_6874": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "58850573_6129": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "86495e94_4215": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "e5ed0322_11275": {
+            "extension": "txt",
+            "chunks": 36
+        },
+        "aefd139b_NotificationUser.aspx_Id_9232_Mode_0": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "e25fc493_1885": {
+            "extension": "txt",
+            "chunks": 29
+        },
+        "f2e63fa4_BS_PressReleaseDisplay.aspx_prid_53539": {
+            "extension": "txt",
+            "chunks": 40
+        },
+        "5548d325_5414": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "f5003296_426": {
+            "extension": "txt",
+            "chunks": 75
+        },
+        "18185ce0_2386": {
+            "extension": "txt",
+            "chunks": 21
+        },
+        "751c75f9_9251": {
+            "extension": "txt",
+            "chunks": 29
+        },
+        "bbebe53d_4738": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "f0a9e9df_NotificationUser.aspx_Id_11069_Mode_0": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "e07f4e98_BS_FemaNotifications.aspx_Id_2585": {
+            "extension": "txt",
+            "chunks": 20
+        },
+        "c70fea81_BS_CircularIndexDisplay.aspx_Id_4740": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "a3fd408b_NotificationUser.aspx_Id_3817_Mode_0": {
+            "extension": "txt",
+            "chunks": 40
+        },
+        "95f8884b_6691": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "75870e7f_NotificationUser.aspx_Id_10104_Mode_0": {
+            "extension": "txt",
+            "chunks": 31
+        },
+        "327a6be4_NotificationUser.aspx_Id_11788_Mode_0": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "6aa576cf_2765": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "0a45dc1d_NotificationUser.aspx_Id_7619_Mode_0": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "1f78fc65_5146": {
+            "extension": "txt",
+            "chunks": 247
+        },
+        "6645d7d8_186": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "5aac8863_NotificationUser.aspx_Id_8935_Mode_0": {
+            "extension": "txt",
+            "chunks": 29
+        },
+        "11e3754d_NotificationUser.aspx_Id_7668_Mode_0": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "ce8539d8_NotificationUser.aspx_Id_4260_Mode_0": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "061df17c_NotificationUser.aspx_Id_6181_Mode_0": {
+            "extension": "txt",
+            "chunks": 29
+        },
+        "b6493133_3785": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "65a7bd81_11241": {
+            "extension": "txt",
+            "chunks": 33
+        },
+        "d1708619_NotificationUser.aspx_Id_11872_Mode_0": {
+            "extension": "txt",
+            "chunks": 35
+        },
+        "943e4d73_10460": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "1c8b66e3_3156": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "a191c67b_4381": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "7650cd98_NotificationUser.aspx_Id_10849_Mode_0": {
+            "extension": "txt",
+            "chunks": 52
+        },
+        "aa34e33c_BS_PressReleaseDisplay.aspx_prid_49615": {
+            "extension": "txt",
+            "chunks": 38
+        },
+        "39bcfa12_2919": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "f4a64a1d_5692": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "71591334_BS_CircularIndexDisplay.aspx_Id_4323": {
+            "extension": "txt",
+            "chunks": 206
+        },
+        "cb0915ac_7138": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "ba4fa5ae_NotificationUser.aspx_Id_7652_Mode_0": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "dbfcaf9f_NotificationUser.aspx_Id_9623_Mode_0": {
+            "extension": "txt",
+            "chunks": 53
+        },
+        "b6a47914_5781": {
+            "extension": "txt",
+            "chunks": 500
+        },
+        "749c765a_NotificationUser.aspx_Id_10090_Mode_0": {
+            "extension": "txt",
+            "chunks": 31
+        },
+        "42965266_NotificationUser.aspx_Id_1247_Mode_0": {
+            "extension": "txt",
+            "chunks": 38
+        },
+        "0ccbb31f_NotificationUser.aspx_Id_11203_Mode_0": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "d5c9b541_2243": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "bab55490_10891": {
+            "extension": "txt",
+            "chunks": 43
+        },
+        "7f462d64_4019": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "37458444_9481": {
+            "extension": "txt",
+            "chunks": 41
+        },
+        "ef88db63_4127": {
+            "extension": "txt",
+            "chunks": 33
+        },
+        "74af8e5c_NotificationUser.aspx_Id_7873_Mode_0": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "340975e1_6415": {
+            "extension": "txt",
+            "chunks": 43
+        },
+        "88c04c41_1706": {
+            "extension": "txt",
+            "chunks": 34
+        },
+        "3e3ad248_NotificationUser.aspx_Id_4574_Mode_0": {
+            "extension": "txt",
+            "chunks": 611
+        },
+        "67a16db1_NotificationUser.aspx_Id_5198_Mode_0": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "c3484719_6468": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "6631387c_12036": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "42a980a6_BS_ViewMasCirculardetails.aspx_id_9076": {
+            "extension": "txt",
+            "chunks": 356
+        },
+        "ef4e6ce0_5893": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "3f3aa0c0_NotificationUser.aspx_Id_2365_Mode_0": {
+            "extension": "txt",
+            "chunks": 47
+        },
+        "d2d561f9_NotificationUser.aspx_Id_7023_Mode_0": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "a37ae14f_11266": {
+            "extension": "txt",
+            "chunks": 38
+        },
+        "48d53a3f_9979": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "ab18f201_7206": {
+            "extension": "txt",
+            "chunks": 31
+        },
+        "c0bf836a_2136": {
+            "extension": "txt",
+            "chunks": 121
+        },
+        "b969225c_NotificationUser.aspx_Id_11016_Mode_0": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "ae897503_BS_CircularIndexDisplay.aspx_Id_3675": {
+            "extension": "txt",
+            "chunks": 399
+        },
+        "2a05ede0_NotificationUser.aspx_Id_2765_Mode_0": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "62b956b3_6701": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "8731d065_6232": {
+            "extension": "txt",
+            "chunks": 27
+        },
+        "d26c6a55_1087": {
+            "extension": "txt",
+            "chunks": 36
+        },
+        "cefabd9a_6187": {
+            "extension": "txt",
+            "chunks": 26
+        },
+        "4a9749df_BS_ViewMasCirculardetails.aspx_Id_8190_Mode_0": {
+            "extension": "txt",
+            "chunks": 236
+        },
+        "7c0869c1_7254": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "e6b97274_NotificationUser.aspx_Id_1506_Mode_0": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "af6bbcac_NotificationUser.aspx_Id_1143_Mode_0": {
+            "extension": "txt",
+            "chunks": 29
+        },
+        "86af85c0_5246": {
+            "extension": "txt",
+            "chunks": 22
+        },
+        "80963463_2699": {
+            "extension": "txt",
+            "chunks": 32
+        },
+        "d7b45db7_4944": {
+            "extension": "txt",
+            "chunks": 23
+        },
+        "2731171b_NotificationUser.aspx_Id_3601_Mode_0": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "0aa9568f_NotificationUser.aspx_Id_8677_Mode_0": {
+            "extension": "txt",
+            "chunks": 51
+        },
+        "f2154e6f_NotificationUser.aspx_Id_653_Mode_0": {
+            "extension": "txt",
+            "chunks": 30
+        },
+        "f9e716db_index.html": {
+            "extension": "txt",
+            "chunks": 1
+        },
+        "59710771_9924": {
+            "extension": "txt",
+            "chunks": 25
+        },
+        "c4eee4d9_NotificationUser.aspx_Id_11161_Mode_0": {
+            "extension": "txt",
+            "chunks": 553
+        },
+        "c28e8524_NotificationUser.aspx_Id_2786_Mode_0": {
+            "extension": "txt",
+            "chunks": 48
+        },
+        "3bd11394_5728": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "c42c4de8_BS_CircularIndexDisplay.aspx_Id_3278": {
+            "extension": "txt",
+            "chunks": 33
+        },
+        "2df459ad_3008": {
+            "extension": "txt",
+            "chunks": 24
+        },
+        "1cffd659_BS_ViewMasDirections.aspx_id_12156": {
+            "extension": "txt",
+            "chunks": 276
+        },
+        "f20633d8_10028": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "bd189a1b_6153": {
+            "extension": "txt",
+            "chunks": 28
+        },
+        "ab3e3cbc_NotificationUser.aspx_Id_8572_Mode_0": {
+            "extension": "txt",
+            "chunks": 24
+        }
+    },
+    "compatible_files_error": {
+        "17f19615_2001": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "f041e2e5_11138": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "a609c23f_NotificationUser.aspx_Id_1344_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "5f1675fa_NotificationUser.aspx_Id_9453_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "e3de7bae_2058": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "f31848cf_11849": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "b787f9cc_NotificationUser.aspx_Id_7105_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "15444e97_9971": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "13aa2f4e_BS_ViewMasCirculardetails.aspx_id_9837": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "84712b41_BS_CircularIndexDisplay.aspx_Id_3855": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "46943ece_PublicationReportDetails.aspx_UrlPage_ID_512": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on tokens per min (TPM): Limit 150000, Used 113113, Requested 85753. Please try again in 19.546s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'tokens', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "4fee6895_10184": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "be9c9574_10181": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "48f2fdca_NotificationUser.aspx_Id_458_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "c67d5926_6531": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "d881cd1d_5254": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "8d96bffa_NotificationUser.aspx_Id_187_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "efebc3af_2334": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "db6c60ce_NotificationUser.aspx_Id_5036_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "12783951_7170": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "83ce9918_6606": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "7f0d1738_2975": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "e289528b_NotificationUser.aspx_Id_8306_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "70a042c4_BS_FemaNotifications.aspx_Id_8647": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "22e569c5_NotificationUser.aspx_Id_9240_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "bcfc179c_NotificationUser.aspx_Id_4716_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "e51f6a33_NotificationUser.aspx_Id_10716_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "8075812a_12088": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "759012f4_11740": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "7a5d49a9_5609": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "d2fe390f_BS_FemaNotifications.aspx_Id_5024": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "fbfdab3e_NotificationUser.aspx_Id_2860_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "a9494c34_NotificationUser.aspx_Id_3204_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "ce03bd72_BS_PressReleaseDisplay.aspx_prid_41852": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "a3825e5c_2325": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "36a99865_NotificationUser.aspx_Id_8429_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per min (RPM): Limit 3, Used 3, Requested 1. Please try again in 20s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "d6519f76_1248": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        },
+        "b5ffa228_BS_ViewMasCirculardetails.aspx_Id_6595_Mode_0": {
+            "extension": "txt",
+            "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for text-embedding-3-large in organization org-FNiRVpeX3wRsz9pmlZh9ShNA on requests per day (RPD): Limit 200, Used 200, Requested 1. Please try again in 7m12s. Visit https://platform.openai.com/account/rate-limits to learn more. You can increase your rate limit by adding a payment method to your account at https://platform.openai.com/account/billing.', 'type': 'requests', 'param': None, 'code': 'rate_limit_exceeded'}}"
+        }
+    }
+}

@@ -1,0 +1,11 @@
+chroma_*
+chroma
+.DS_Store
+./jupiter_notebook
+/chroma_db
+*.log
+*.log.*
+feed_data/data_path/*
+.idea/*
+.idea
+*.pyc
